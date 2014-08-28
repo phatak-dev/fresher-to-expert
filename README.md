@@ -5,8 +5,9 @@ Over the years, engineering students have asked me how to apply whatever they le
 I wrote this book to answer that exact question. Reading this book should give the reader how to apply what they have learnt and what are the resource to be used
 
 # Audience
-This book is not how to
- * Good marks in Enginnering exams
+**This book is not how to**
+
+ * Get good marks in Enginnering exams
  * Get job in MNC
  * 24 hour guide to become successful
 
