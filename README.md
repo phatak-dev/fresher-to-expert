@@ -4,6 +4,8 @@ Over the years, engineering students have asked me how to apply whatever they le
 
 I wrote this book to answer that exact question. Reading this book should give the reader how to apply what they have learnt and what are the resource to be used
 
+#Opiniated
+
 # Audience
 **This book is not how to**
 

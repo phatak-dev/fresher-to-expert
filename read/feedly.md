@@ -40,7 +40,7 @@ Now the following are the optional one's. If you are interested in those speific
 
 
 
-#Pocket - You don't need to rush it
+#Read it Later - You don't need to rush it
 
 Sometimes you find a great article that's you really want to read but don't have time. Don't worry . You can use tool called [Pocket](http://www.pocket.com) . Just sign up there and in feedly setup the pocket. From now on you can save the articles to pocket and use from web,android or iOS devices.
 
