@@ -30,7 +30,14 @@ Unlike MOOC courses, youtube courses are do not have any hands on or instructor 
 #Conference talks
 Every year different part of the world many conferences are conducted. It's almost impossible to attend all those conferences but don't worry most of the videos of these conferences are availble on Youtube.
 
-Conference talks are best way to learn the state of art technology from the best in field. Over the years many great videos have changed the way I think about the computing and programming. I have collected those video [here](). You can start from anywhere and most of them are hosted on Youtube.
+Conference talks are best way to learn the state of art technology from the best in field. Over the years many great videos have changed the way I think about the computing and programming. I have collected those video [here](http://phatak-dev.github.io/techtalks/). You can start from anywhere and most of them are hosted on Youtube.
+
+Few to start with
+
+* [Inventing on Principle](http://phatak-dev.github.io/techtalks/inventing-on-principle/)
+* [The process of Innovation](http://phatak-dev.github.io/techtalks/the-process-of-innovation-andreas-bechtolsheim/)
+* [How to design a good API and why it matters](http://phatak-dev.github.io/techtalks/api-design-by-Joshua-Bloch/)
+* [Legacy - Creating software that lasts long](http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long/)
 
 Youtube is your friend. Use it wisely to get most of out of it.
 
