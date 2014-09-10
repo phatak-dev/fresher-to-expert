@@ -11,35 +11,36 @@ There are many universities in the world, who share their recorded course conten
 
     This course is offered by Hardvard university. If you want to learn the probability theory and other statistics courses this course is best one to start with.
 
-* ####[Dougcrokford Javascript sessions](https://www.youtube.com/watch?v=v2ifWcnQs6M)
-
- What to learn Javascript from it's master? Then watch this set of videos from the courses taught by the Douglas crocford itself.
-
 * ####[Introduction to Psychology](https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F)
 
    This course is offered by Yale university. It's a good starting point to start understanding the wonders of brain.
 
-These are few courses availbel in the youtube. Use youtube search capability to explore more.
+* ###[MIT open courseware](https://www.youtube.com/user/MIT)
+  This is a huge collection of courses offered by MIT accessible for free. Courses cover different disciplines like Physics,Chemistry,Computer science etc.
+
+These are few courses available in the Youtube. Use youtube's search capability to explore more.
 
 
-#Youtube course vs MOOC courses
+#Youtube course vs MOOC 
 
 Unlike MOOC courses, youtube courses are do not have any hands on or instructor feedback. They are just recording of the sessions inside the college. Though MOOC courses are superior than the Yotube one's, not every course is offered in MOOC format yet. So stick with Youtube courses till those courses come in MOOC format.
 
 
 #Conference talks
-Every year different part of the world many conferences are conducted. It's almost impossible to attend all those conferences but don't worry most of the videos of these conferences are availble on Youtube.
+Every year different part of the world many computer science conferences are conducted. It's almost impossible to attend all those conferences but don't worry most of the videos of these conferences are available on Youtube.
 
-Conference talks are best way to learn the state of art technology from the best in field. Over the years many great videos have changed the way I think about the computing and programming. I have collected those video [here](http://phatak-dev.github.io/techtalks/). You can start from anywhere and most of them are hosted on Youtube.
+Conference talks are best way to learn the state of art technology from the best in field. Over the years many great videos have changed the way I think about the computing and programming. These talks highly useful to improve the skills. 
 
-Few to start with
+Following are the few talks to start with
 
 * [Inventing on Principle](http://phatak-dev.github.io/techtalks/inventing-on-principle/)
 * [The process of Innovation](http://phatak-dev.github.io/techtalks/the-process-of-innovation-andreas-bechtolsheim/)
 * [How to design a good API and why it matters](http://phatak-dev.github.io/techtalks/api-design-by-Joshua-Bloch/)
 * [Legacy - Creating software that lasts long](http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long/)
 
-Youtube is your friend. Use it wisely to get most of out of it.
+I have collected the conference videos that I enjoyed watching [here](http://phatak-dev.github.io/techtalks/). They will be next one to explore after finish the top ones.
+
+** Youtube is your friend. Use it wisely to get most of out of it**.
 
 
 

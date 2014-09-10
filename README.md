@@ -2,7 +2,7 @@
 
 Over the years, I have used different resources to become a good developer. These resources really helped me to transition from a clueless computer graduate student to competent developer.
 
-So I have put together this book to help any student who out there wondering "How I improve my knowledge to become good developer?".
+So I have put together this book to help any student who out there wondering how they can improve their skills. This book also tries to show how different things students study in college come together to create something useful.
 
 #Opinionated
 This book is highly opinionated. Resources and advices shared here are what I think is the best. Not all going to agree on my point of view and that should be ok. There will be better resources or different ways to do the things.
