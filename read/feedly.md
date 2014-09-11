@@ -42,7 +42,7 @@ Now the following are the optional one's. If you are interested in those specifi
 
 #Read it Later - You don't need to rush it
 
-Sometimes you may find a great article that you really want to read in depth but don't have time. Don't worry . You can use tool called [Pocket](http://www.pocket.com) . Just sign up there and in feedly [setup](http://help.getpocket.com/customer/portal/articles/1043058-how-to-save-to-pocket-from-feedly) the pocket. From now on you can save the articles to pocket and use from web,android or iOS devices.
+Sometimes you may find a great article that you really want to read in depth but don't have time. Don't worry . You can use tool called [Pocket](http://www.getpocket.com) . Just sign up there and in feedly [setup](http://help.getpocket.com/customer/portal/articles/1043058-how-to-save-to-pocket-from-feedly) the pocket. From now on you can save the articles to pocket and use from web,android or iOS devices.
 
 #Read everyday
 Make a habit of reading feedly everyday. It's like morning news paper. As it's available in mobile, you can read wherever you want. I have been reading from last 6 years and it has served me very well.

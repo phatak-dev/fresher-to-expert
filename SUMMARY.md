@@ -7,7 +7,7 @@
    * [Youtube](read/youtube.md)
    * [Github - Reading other's code ](read/reading_others_code.md)
    * [Conclusion](read/conclusion.md)
-* [Programmer setup](programmer_setup/README.md)
+* [Programmer device setup](programmer_setup/README.md)
    * [Operating system](programmer_setup/operating_system.md)
    * [Text editor](programmer_setup/texteditor.md)
    * [Smartphone](programmer_setup/smartphone.md)
