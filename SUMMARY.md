@@ -9,7 +9,7 @@
    * [Conclusion](read/conclusion.md)
 * [Programmer device setup](programmer_setup/README.md)
    * [Operating system](programmer_setup/operating_system.md)
-   * [Text editor](programmer_setup/texteditor.md)
+   * [Code editor](programmer_setup/texteditor.md)
    * [Smartphone](programmer_setup/smartphone.md)
    * [Reading device](programmer_setup/reading_device.md)
 * [Learn the craft](learn_the_craft/README.md)
