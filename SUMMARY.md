@@ -12,6 +12,7 @@
    * [Code editor](programmer_setup/texteditor.md)
    * [Smartphone](programmer_setup/smartphone.md)
    * [Reading device](programmer_setup/reading_device.md)
+   * [Conclusion](programmer_setup/conclusion.md)
 * [Learn the craft](learn_the_craft/README.md)
    * [Nand to Tetris](learn_the_craft/article.md)
    * [Building your own](learn_the_craft/building_simple_compiler.md)
