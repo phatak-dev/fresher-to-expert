@@ -23,7 +23,7 @@
    * [Blog](share/blog.md)
    * [Twitter](share/twitter.md)
    * [Meetup](share/meetup.md)
-   * [Open source](share/open_source)
+   * [Open source](share/open_source.md)
 * [Compete](compete/README.md)
    * [Hackathon](compete/hackathon.md)
    * [Google summer of Code](compete/google_summer_of_code.md)
