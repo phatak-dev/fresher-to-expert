@@ -1,4 +1,5 @@
-# Preface
+
+#Preface
 
 Over the years, I have used different resources to become a good developer. These resources really helped me to transition from a clueless computer graduate student to competent developer.
 

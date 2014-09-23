@@ -1,15 +1,14 @@
 # Language
 
-You may have studied different computer languages like C, C++ like circulum. You have used IDE, compiler, assembler to compile the source code to the machine code and run the program. Ever you wanted to create your own computer language? Then here is your opportunity.
+You may have studied different computer languages like C, C++ like curriculum. You have used IDE, compiler, assembler to compile the source code to the machine code and run the program. Ever you wanted to create your own computer language? Then here is your opportunity.
 
 
 #Why our own computer language
-Computer lanugages are primary way we communicate to the computer. Different languages have different characterstics. When we study them in the beginnings they feel difficult to grasp. So we want to understand what it to take create a good enough language from scrath. Creating our own language gives us the better understanding of existing computer languages and also adds poweful tool to our toolkit when we solve problems
+Computer languages are primary way we communicate to the computer. Different languages have different characteristics. When we study them in the beginnings they feel difficult to grasp. So we want to understand what it to take create a good enough language from scratch. Creating our own language gives us the better understanding of existing computer languages and also adds powerful tool to our toolkit when we solve problems
 
 #Learning from the masters
 
-The book you are going to use to learn the language is created by masters of the field. The book is written by  Brian W. Kernighan, creator of Unix, B language and Rob pike, one of the creator Go
-language. Both created the software that endured many decades.
+The book you are going to use to learn the language is created by masters of the field. The book is written by  Brian W. Kernighan, creator of Unix, B language and Rob pike, one of the creator Go language. Both created the software that endured many decades. So you are in good hands.
 
 
 #Book
