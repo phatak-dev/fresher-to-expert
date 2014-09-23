@@ -12,9 +12,9 @@ In order to contribute to the book, you should be able to build the book on your
     This book uses node.js for building. So you need to have node.js in your system . The following are the commands to install node.js on ubuntu system.
 
 
-    sudo apt-get install nodejs
-    sudo apt-get install npm
-    sudo ln -s /usr/bin/nodejs /usr/bin/node
+     sudo apt-get install nodejs  
+     sudo apt-get install npm     
+     sudo ln -s /usr/bin/nodejs /usr/bin/node
 
 * ### Install Gitbook
 
@@ -24,7 +24,7 @@ This book is written using [Gitbook](https://www.gitbook.io). Install the gitboo
 
 * ###Clone the code
 
-      git clone https://github.com/phatak-dev/draft_book.git
+         git clone https://github.com/phatak-dev/draft_book.git
 
 * ###Build
 
