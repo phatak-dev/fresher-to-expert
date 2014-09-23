@@ -9,8 +9,7 @@ Computer lanugages are primary way we communicate to the computer. Different lan
 #Learning from the masters
 
 The book you are going to use to learn the language is created by masters of the field. The book is written by  Brian W. Kernighan, creator of Unix, B language and Rob pike, one of the creator Go
-language. Both created the software that endured many decades
-
+language. Both created the software that endured many decades.
 
 
 #Book
