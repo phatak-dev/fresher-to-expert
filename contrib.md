@@ -33,7 +33,7 @@ You can view the book at [localhost:4000](http://localhost:4000)
 
 ##Contribute
 
-You can fork my repository and make changes to your repository. Once you are happy with changes, you can give a pull request on the Github.
+You can fork my [repository](https://github.com/phatak-dev/draft_book) and make changes to your repository. Once you are happy with changes, you can give a pull request on the Github.
 
 
 
