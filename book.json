@@ -1,18 +1,24 @@
-{
-	"extension": "pdf",
+{	
+	 "output": null,
+	"generator":"site",
     "title": "Draft Book",
     "description": "Book for beginners",
     "github": "macroid/macroid",
-    "githubHost": "https://github.com/",    
+    "githubHost": "https://github.com/"    
     "links": {
-        "home": null,
-        "about": "https://github.com/phatak-dev",
-        "issues": null,
-        "contribute": false,
+        // Custom links at top of sidebar
+        "sidebar": {
+            "Custom link name": "https://customlink.com"
+        },
+
+        // Sharing links
         "sharing": {
             "google": null,
             "facebook": null,
-            "twitter": null
+            "twitter": null,
+            "weibo": null,
+            "all": null
         }
     }
+        
 }
