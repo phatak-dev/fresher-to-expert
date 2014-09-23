@@ -1,3 +1,0 @@
-# Startups
-
-To be started

@@ -1,3 +1,0 @@
-# MNC
-
-To be started

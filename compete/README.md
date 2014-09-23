@@ -1,3 +1,0 @@
-# Compete
-
-To be started

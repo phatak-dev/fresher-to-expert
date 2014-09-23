@@ -1,3 +1,0 @@
-# Meetup
-
-To be started
