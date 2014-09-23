@@ -20,6 +20,7 @@
        * [Language](learn_the_craft/compiler.md)
        * [Server](learn_the_craft/server.md)
        * [Browser](learn_the_craft/browser.md)
+   * [Conclusion](learn_the_craft/conculsion.md)
 * [Share](share/README.md)
    * [Blog](share/blog.md)
    * [Social networks](share/twitter.md)
