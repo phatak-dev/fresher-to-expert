@@ -9,12 +9,13 @@ In order to contribute to the book, you should be able to build the book on your
 
 * ###Install node.js
 
-    This book uses node.js for building. So you need to have node.js in your system . The following are the commands to install node.js on ubuntu system.
+    This book uses node.js for building. So you need to have node.js in your system . The following are the commands to install node.js on ubuntu system. Preferably, node v0.10.15+ and npm v1.4.21+.
 
 
      	sudo apt-get install nodejs  
      	sudo apt-get install npm     
      	sudo ln -s /usr/bin/nodejs /usr/bin/node
+	
 
 * ### Install Gitbook
 
