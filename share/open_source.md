@@ -1,14 +1,15 @@
-# Open source
+# Contribute to Opensource
 Sharing the code is ultimate sharing. Contributing into open source is one of the best sharing mechanism.
 
-#Github and Sharing
+#Mailing lists
 
 
-#Contributing to a project
-
-* Code
+#Bug list
 
 
-#Contributing your own code
+# Fork and Pull request
+
+
+#Your own repository
 
 #ShowHN
