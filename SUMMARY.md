@@ -23,7 +23,7 @@
    * [Conclusion](learn_the_craft/conculsion.md)
 * [Share](share/README.md)
    * [Blog](share/blog.md)
-   * [Knowledge Sharing](share/twitter.md)
+   * [Knowledge Sharing](share/knowledgesharing.md)
    * [Meetup](share/meetup.md)
    * [Open source](share/open_source.md)
    * [Conclusion](share/conclusion.md)
