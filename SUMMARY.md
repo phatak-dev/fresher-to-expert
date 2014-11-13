@@ -18,8 +18,6 @@
    * [Building your own](learn_the_craft/building_your_own.md)
        * [Operating system](learn_the_craft/operating_system.md)
        * [Language](learn_the_craft/compiler.md)
-       * [Server](learn_the_craft/server.md)
-       * [Browser](learn_the_craft/browser.md)
    * [Conclusion](learn_the_craft/conculsion.md)
 * [Share](share/README.md)
    * [Blog](share/blog.md)
@@ -34,5 +32,7 @@
 * [Profession](profession/README.md)
    * [Startups](profession/startups.md)
    * [MNC](profession/mnc.md)
-   * [Jobs](profession/jobs.md)
+   * [Service Based Companies](profession/jobs.md)
+   * [Conclusion](profession/conclusion.md)
+* [Epilogue](epilogue/README.md)
 
