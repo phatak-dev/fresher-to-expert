@@ -27,7 +27,7 @@
 * [Build](build/README.md)
    * [Hackathon](build/hackathon.md)
    * [Google summer of Code](build/google_summer_of_code.md)
-   * [Contribute to Open source](share/open_source.md)
+   * [Contribute to Open source](build/contribute_open_source.md)
    * [Conclusion](build/conclusion.md)
 * [Profession](profession/README.md)
    * [Startups](profession/startups.md)
