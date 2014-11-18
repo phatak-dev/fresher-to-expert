@@ -6,8 +6,8 @@
     "links": {        
         "sidebar": {
             "Author": "https://github.com/phatak-dev",
-            "Contributing":"https://github.com/phatak-dev/draft_book/blob/master/contrib.md"
-            
+            "Contributing":"https://github.com/phatak-dev/draft_book/blob/master/contrib.md",
+            "License" : "https://github.com/phatak-dev/draft_book/blob/master/LICENSE.md"   
         },        
         "sharing": {
             "google": false,
