@@ -45,11 +45,11 @@ The following are additional reads. If you are familiar with specific technologi
 
 * ### [Thinking in Java](http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X)
 
-This should the book you should read if you want to be fluent in Java. It not only goes in depth into the Java programming language it's also teaches how to do Object Oriented programming right.
+This should be the book you should read if you want to be fluent in Java. It not only goes in depth into the Java programming language instead it also teaches how to do Object Oriented programming right.
 
 * ### [JavaScript - The good parts ](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
-JavaScript is one of most famous programming language in the world. It's also most misunderstood language in the world. If you want to learn the language right, this book is highly recommended.
+JavaScript is one of the most famous programming language in the world. It's also most misunderstood language in the world. If you want to learn the language right, this book is highly recommended.
 
 * ###[ JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752)
 
@@ -57,7 +57,7 @@ People think JavaScript is just a scripting language. But there is more to it. E
 
 
 # Entrepreneurial / Inspirational books
-The books which I am going to list now are the one which don't teach how to code. But they teach you one of most important factor of software development, i.e design. These books talk about how to build great designed products and also how to build lasting companies.
+The books which I am going to list now are the ones which doesn't teach how to code. But they teach you one of the most important factor of software development - design. These books talk about how to build great designed products and also how to build long lasting companies.
 
 Read these books to get inspired. These books show how people achieve greatness in their field.
 
@@ -65,7 +65,7 @@ Read these books to get inspired. These books show how people achieve greatness 
 * ###[ Outliers : The story of success ](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 
 How people like Bill Gates, Steve Jobs achieve great things in life?
-Is there any commonalities in successful people across different field. This books explore this idea in depth which makes its very interesting read.
+Is there any commonalities in successful people across different field. This book explore these ideas in depth which makes it a very interesting read.
 
 * ###[ Build to Last ](http://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402/)
 
