@@ -1,21 +1,21 @@
 # MOOC - Massive open online course
 Want to learn from the best lectures in the world? Then you should start using online courses.
 
-From last few years, there is a new trend in eduction. In earlier times, people were travelling great distance in order to get quality eduction. But with Interenet that's no more required. With Interent  you can learn anything sitting in home. Most of the time these courses will be free or will be charging very less money. These kind of courses are called as [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course)- Massive open online course.
+From last few years, there is a new trend in education. In earlier times, people were travelling great distance in order to get quality education. But with Interenet that's no more required. With Interent  you can learn anything sitting in home. Most of the time these courses will be free or will be charging very less money. These kind of courses are called as [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course)- Massive open online course.
 
-Whenever people hear about the online courses, there will be some questions arise. Perticularly around the quality of the teaching and content. The following are few of FAQ asked by students
+Whenever people hear about the online courses, there will be some questions arise. Particularly around the quality of the teaching and content. The following are few of FAQ asked by students
 
 * ####Is quality of MOOC courses are good?
 
-    The courses provided by the MOOC companies like [Coursera](http://www.coursera.org) and [Udacity](https://www.udacity.com/) are top notch.They are usually taught by the best in field. Most of the instructors hold Phd in the field and respected lectures in the top colleges.
+    The courses provided by the MOOC companies like [Coursera](http://www.coursera.org) and [Udacity](https://www.udacity.com/) are top notch.They are usually taught by the best in field. Most of the instructors hold Phd in the field and respected lecturers in the top colleges.
 
 * ####Are they going to charge a lot?
 
-    One of the advantages of online courses is they don't cost too much for the universities or companies to offer them to large amount of students. There are many great free courses in Coursera and very less costly in Udacity. So you should get your money worth.
+    One of the advantages of online courses is they don't cost too much for the universities or companies to offer them to large amount of students. There are many great free courses in Coursera and very less costly courses in Udacity. So you should get your money worth.
 
 * #### Do this courses offer hands on?
 
-	Almost every computer related MOOC course will have extensive hands on. You will have sample examples and exercises for every week. These exercises should be submitted and will evaluated by instructor for their correctness.
+	Almost every computer related MOOC course will have extensive hands on. You will have sample examples and exercises for every week. These exercises should be submitted and will be evaluated by instructor for their correctness.
 
 * ####Do I get a Certificate?
 
@@ -29,21 +29,21 @@ Whenever people hear about the online courses, there will be some questions aris
 
     Coursera keeps the videos and exercises even after the course is completed. So if you don't care about the certificates you can watch videos and follow the course in your own pace.
 
-* ####Is these courses are limited to computers?
+* ####Are these courses are limited to computers?
 
-    No. There is variety of course which cover businessmen, fashion,psychology etc.
+    No. There are variety of courses which cover business,fashion,psychology etc.
 
 
 * ####Which sites offer the MOOC courses?
 
-    Most well known site are [courseera](http://www.coursera), [udacity](https://www.udacity.com/) and [khan academy](https://www.khanacademy.org/)
+    Most well known sites are [courseera](http://www.coursera), [udacity](https://www.udacity.com/) and [khan academy](https://www.khanacademy.org/)
 
 
 MOOC are the new way of learning. These courses offer high quality content with very cost effective way.
 
 #Courses to start with
 
-The following are the few courses you should start with. Once you become comforatble, you can explore more courses in future.
+The following are the few courses you should start with. Once you become comfortable, you can explore more courses in future.
 
 * [Algorithms: Design and Analysis, Part 1](https://class.coursera.org/algo-005)
 * [Automata](https://www.coursera.org/course/automata)
