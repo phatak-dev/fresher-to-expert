@@ -38,7 +38,7 @@ Yes of course. Before you make up mind to use Linux as daily operating system yo
 
 
 #Power of command line
-Ubuntu comes with nice GUI. You can use ubuntu like Windows just by using GUI only. But the real power of linux comes from command line. Many developers fear the command line when they use first time. But please don't give up. Able to use command line gives you power over other normal programmer. Command line allows you automate lot of routinely things. So I highly recommend you spend lot of time on Ubuntu command line. You will find the it's power after sometime.
+Ubuntu comes with nice GUI. You can use ubuntu like Windows just by using GUI only. But the real power of linux comes from command line. Many developers fear the command line when they use first time. But please don't give up. Able to use command line gives you power over other normal programmer. Command line allows you automate lot of routinely things. So I highly recommend you spend lot of time on Ubuntu command line. You will find it's power after sometime.
 
 If you are more interested to know the history of Linux and how it's changed people you can watch below video.
 
