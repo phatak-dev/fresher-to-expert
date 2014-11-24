@@ -9,21 +9,21 @@ hackathon is an event where many developers get together to build something inte
 Benefits of hackathon
 
 #Hackathons are great for prototyping
-As you have tight time limits, hackathons are not meant for a complete product/library development. But it will be a great place to try out the ideas that you are interested in and prototype them fastly. This gives a great benefit of having feedback in very early stage of idea. You can build a prototype in 24 hours and ask people to give feedback.
+As you have limited timeline, hackathons are not meant for full fledged product/library development. It can be a great place to try out the ideas that you are interested in and prototype them fastly. This gives a great benefit of having feedback in very early stage of idea. You can build a prototype in 24 hours and ask people to give feedback.
 
 #Hackathons are great for focusing
-The time in hackathon is very valuable. So you will be completely focused on the idea that you have to build. You wont be distracted by anything outside of the one you are building. It's great to have this kind of focus since lot of nice products are often started in these kind of hackathons.
+The time in hackthon is very valuable, as you will be completely focused on the thing that you have to build. You will not be distracted by anything outside of the one you are building.se than the e your building. It's great to have this kind of focus because often lot of nice products are the outcome out of such hackthons.
 
 #Hackathons teach team work
-Normally all hackathons encourage people to work in teams. One obvious reason is to save time. But being in team forces you to be a team player.Also you need to divide the work in such way that every one is able to contribute. If you don't have a team don't worry many hackathons even allow you to form team on spot.
+Normally all hackathons encourage people to work in teams. One obvious reason is to save time. In adiition, being in team forces you to be a team player.Each team member has a responsibility to contribute equally. If you don't have a team don't worry many hackthons even allow you to form team on spot.
 
 #Hackathons brings you recognition
-Almost every hackathon,in the end ask teams to present their work. It's a great place to show whatever you have built. It may not be the greatest thing in the world, but even if it's little good people will appreciate. It builds a good recognition around developer community which will be invaluable for your carrier.
+At the end of hackathons, there is usually a series of demonstrations in which each group presents their results.It may not be the greatest thing in the world, but even if it's little good people will appreciate. It builds a good recognition around developer community which will be invaluable for your career.
 
 #Hackathons may have perks
-Some hackathons may give you some perks like latest gadgets or some other coupons etc. Some even may give you job offers also. So participation in these events opens you a great opportunity to win these perks.
+Some hackathons may give you some perks like latest gadgets or some other coupons etc. Some may even give you job offers!. So participation in these events opens a great opportunity to win these perks.
 
-Now you know importance of hackathons, you may be interested to know different places where hackathons are conducted.
+Now,as you know the importance of hackathons, you may be interested in knowing different places where hackathons are conducted.
 
 The following are few of resources you can checkout to get to know about hackathons in India.
 
@@ -38,7 +38,8 @@ The following are few of resources you can checkout to get to know about hackath
 * [Startup digest](https://www.startupdigest.com/)
 
 
-Hackathons are the best place to build useful things in a short time. Attend whenever you get opportunity.
+Hackathons are the best place to build useful things in a short peroid of time. Attend whenever you get an opportunity.
+
 
 
 
