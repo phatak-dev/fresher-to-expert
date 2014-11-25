@@ -7,7 +7,7 @@ Many developer share their experiences with programming,tools or practices throu
 [RSS](http://en.wikipedia.org/wiki/RSS) stands for *Rich Site Summary*. It's a standard which is usually used by blogs to publish their new articles. You can subscribe to these feeds and get updates when there is new articles.
 
 #Feedly
-[Feedly](feedly.com) is free service which allows you to subscribe to many websites and read from one place. It's available on Web,Android and iOS. Use this as magazine/newspaper to get up to date with technology.
+[Feedly](http://www.feedly.com) is free service which allows you to subscribe to many websites and read from one place. It's available on Web,Android and iOS. Use this as magazine/newspaper to get up to date with technology.
 
 #What to read?
 There are wide variety blogs on different things. The following are my favorite ones which I spend most time reading. You can also start with this list, as you become more comfortable with tool you can start exploring others.
