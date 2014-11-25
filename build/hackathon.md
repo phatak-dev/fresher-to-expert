@@ -12,7 +12,7 @@ Benefits of hackathon
 As you have limited timeline, hackathons are not meant for full fledged product/library development. It can be a great place to try out the ideas that you are interested in and prototype them fastly. This gives a great benefit of having feedback in very early stage of idea. You can build a prototype in 24 hours and ask people to give feedback.
 
 #Hackathons are great for focusing
-The time in hackthon is very valuable, as you will be completely focused on the thing that you have to build. You will not be distracted by anything outside of the one you are building.se than the e your building. It's great to have this kind of focus because often lot of nice products are the outcome out of such hackthons.
+The time in hackthon is very valuable, as you will be completely focused on the thing that you have to build. You will not be distracted by anything outside of the one you are building. It's great to have this kind of focus because often lot of nice products are the outcome out of such hackthons.
 
 #Hackathons teach team work
 Normally all hackathons encourage people to work in teams. One obvious reason is to save time. In adiition, being in team forces you to be a team player.Each team member has a responsibility to contribute equally. If you don't have a team don't worry many hackthons even allow you to form team on spot.
