@@ -36,7 +36,7 @@ Whenever people hear about the online courses, there will be some questions aris
 
 * ####Which sites offer the MOOC courses?
 
-    Most well known sites are [courseera](http://www.coursera), [udacity](https://www.udacity.com/) and [khan academy](https://www.khanacademy.org/)
+    Most well known sites are [coursera](http://www.coursera.org), [udacity](https://www.udacity.com/) and [khan academy](https://www.khanacademy.org/)
 
 
 MOOC are the new way of learning. These courses offer high quality content with very cost effective way.

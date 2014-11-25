@@ -51,7 +51,7 @@ Wordpress is one of the most famous blogging software out there. In wordpress.co
 
 Tumblr is another blogging platform where you can create your blogs. In Tumblr you can follow other blogs too. Tumblr is well known for its great UI, ease of use. Tumblr is also popular for creating photo blogs.
 
-* ###[Blogger](www.blogger.com)
+* ###[Blogger](http://www.blogger.com)
 
 Blogger is a blogging platform by Google. If you have gmail id, its the fastest way to get started. Blogger integrates well with other google services like search, ads etc. I created my first blog on blogger.
 
