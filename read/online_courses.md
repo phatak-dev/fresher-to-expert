@@ -1,4 +1,6 @@
-# MOOC - Massive open online course
+MOOC - Massive open online course
+====================================
+
 Want to learn from the best lectures in the world? Then you should start using online courses.
 
 From last few years, there is a new trend in education. In earlier times, people were travelling great distance in order to get quality education. But with Interenet that's no more required. With Interent  you can learn anything sitting in home. Most of the time these courses will be free or will be charging very less money. These kind of courses are called as [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course)- Massive open online course.
@@ -41,7 +43,7 @@ Whenever people hear about the online courses, there will be some questions aris
 
 MOOC are the new way of learning. These courses offer high quality content with very cost effective way.
 
-#Courses to start with
+### Courses to start with
 
 The following are the few courses you should start with. Once you become comfortable, you can explore more courses in future.
 

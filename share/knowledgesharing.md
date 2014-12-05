@@ -1,7 +1,7 @@
 # Knowledge sharing
 Today people across the globe collaborate through internet. You can share your idea or queries in different forums and people from different parts of the world. In this chapter we are going to discuss about few of the resources you can use for sharing the knowledge with others.
 
-#Mailing lists
+### Mailing lists
 Every open source project normally comes with a mailing list. Mailing list is just a common email address that you can send mails or receive mails from the group of people.
 
 Mailing list is a group mail. You can subscribe to this group mail. The following are few of things you can do with them
@@ -22,7 +22,7 @@ The following are few of mailing lists you can start with. Just google "project 
 * [Linux kernel mailing list](https://lkml.org/)
 * [Apache Http server mailing list](http://httpd.apache.org/lists.html)
 
-#Groups
+### Groups
 Mailing lists are based on email. Though email is great for communication, it poses few of below challenges
 
 * Too many emails from the project clutter the inbox
@@ -39,7 +39,7 @@ The following are few of the interesting groups to start with. Again google will
 * [Android Developer Group](https://groups.google.com/forum/#!forum/android-developers)
 * [JavaScript Developer Group](https://groups.google.com/forum/#!forum/comp.lang.javascript)
 
-#IRC
+### IRC
 
 Mailing lists and groups are great for passive communication. But what if you want to discuss about project like a chat. Then IRC channels are the right place to go.
 
@@ -53,14 +53,14 @@ The following
 * [Android IRC channel](irc://irc.freenode.net/android)
 * [Google Chrome IRC](irc://irc.freenode.net/chromium)
 
-#Stackoverflow
+### Stackoverflow
 All above mentioned tools are generic communication tools which are specific to a project. But if you are looking for Q&A website which covers all different kinds of project, then stackoverflow [http://www.stackoverflow.com] is your friend.
 
 You may already know stackoverflow. Whenever you search for specific programming question on google you may have ended up in stackoverflow. But what you may not know is that each project has dedicated stack overflow section where you can get answer to your question faster than Google.
 
 In stackoverflow, you can ask a question or answer for a question also. So from now start searching in stackoverflow.
 
-#Social networks
+### Social networks
 You may have used different social network like Facebook,Orkut to share photos and be in touch with friends. But there are other social networks out there where you can follow the rock stars of the programming. Twitter and Google plus are two of such social networks. Using these networks you can get in touch with the people whose work you admire.
 
 The following are few of the people you can start with.

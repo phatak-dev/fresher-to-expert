@@ -1,10 +1,12 @@
-# Youtube
+Youtube
+====================================
+
 You may have used Youtube for watching songs, movies or television shows. But do you know youtube hosts great educational content? You can use youtube for learning many things without paying any money.
 
 Youtube is popular site to share the videos across the world. People use it's popularity to share their content to the world. In same way many universities also share their content through youtube.
 
 
-#University courses
+### University courses
 There are many universities in the world, who share their recorded course contents on youtube. So if you want to learn a specific topic most probably youtube has you covered. The following are few of the courses availble in youtube in it's entierity.
 
 * ####[Statistics 101](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PLwSkUXSbQkFmuYHLw0dsL3yDlAoOFrkDG)
@@ -15,21 +17,21 @@ There are many universities in the world, who share their recorded course conten
 
    This course is offered by Yale university. It's a good starting point to start understanding the wonders of brain.
 
-* ###[MIT open courseware](https://www.youtube.com/user/MIT)
+* ####[MIT open courseware](https://www.youtube.com/user/MIT)
   This is a huge collection of courses offered by MIT which can be accessed freely. Courses cover different disciplines like Physics,Chemistry,Computer science etc.
 
 These are few courses available in the Youtube. Use youtube's search capability to explore more.
 
 
-#Youtube course vs MOOC 
+### Youtube course vs MOOC
 
 Unlike MOOC courses, youtube courses do not have any hands on or instructor feedback. They are just recording of the sessions inside the college. Though MOOC courses are superior than the Yotube one's, not every course is offered in MOOC format yet. So stick with Youtube courses till those courses come in MOOC format.
 
 
-#Conference talks
+### Conference talks
 Every year in different parts of the world many computer science conferences are held. It's almost impossible to attend all those conferences but don't worry most of the videos of these conferences are available on Youtube.
 
-Conference talks are best way to learn the state of art technology from the best in field. Over the years many great videos have changed the way I think about the computing and programming. These talks are highly useful to improve the skills. 
+Conference talks are best way to learn the state of art technology from the best in field. Over the years many great videos have changed the way I think about the computing and programming. These talks are highly useful to improve the skills.
 
 Following are the few talks to start with
 

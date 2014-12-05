@@ -7,15 +7,15 @@ We all have studied operating system as course in our curriculum. Though it intr
 It will be great if you can see or build the pieces of operating system as you learn the concepts. It will be more awesome if the operating system is powerful enough like real operating system like Linux.
 
 
-#Minix
+### Minix
 Minix is an operating system created by Andrew S Tanenbaum , to teach operating system course. The lecturer created entire operating system just to teach his students about operating system. Since the operating system is inspired by Unix, most of the architecture and concepts are similar to Unix.
 
 
-#Minix and Linux
+### Minix and Linux
 Linus tornvald, the creator of Linux, was one of the student for this course in university. He learnt the basics of operating system from this course and applied the same when he createed Linux operating system. So you will be learning from the book which Linus himself used to create Linux operating system
 
 
-#Book
+### Book
 
 The book [Operating Systems Design and Implementation](http://www.amazon.com/Operating-Systems-Design-Implementation-Edition/dp/0131429388) contains explanation on every topic of operating system with complete source code in C. It's a big book but if you have enough patience you can go through book with working examples in order to build your own operating system
 

@@ -1,15 +1,17 @@
-# Feedly - News paper of the Developer
+Feedly - News paper of the Developer
+====================================
+
 Everyone read news paper to get updated with world news. Same way developer can be up to date with technology news using a RSS reader or digital newspaper.
 
 Many developer share their experiences with programming,tools or practices through their blogs.You can write your own too. We will discuss more about that in next section. First let's read other's blog and understand their opinions and skills.
 
-#RSS
+### RSS
 [RSS](http://en.wikipedia.org/wiki/RSS) stands for *Rich Site Summary*. It's a standard which is usually used by blogs to publish their new articles. You can subscribe to these feeds and get updates when there is new articles.
 
-#Feedly
+### Feedly
 [Feedly](http://www.feedly.com) is free service which allows you to subscribe to many websites and read from one place. It's available on Web,Android and iOS. Use this as magazine/newspaper to get up to date with technology.
 
-#What to read?
+### What to read?
 There are wide variety blogs on different things. The following are my favorite ones which I spend most time reading. You can also start with this list, as you become more comfortable with tool you can start exploring others.
 
 The following is the list
@@ -40,11 +42,11 @@ Now the following are the optional one's. If you are interested in those specifi
 
 
 
-#Read it Later - You don't need to rush it
+### Read it Later - You don't need to rush it
 
 Sometimes you may find a great article that you really want to read in depth but don't have time. Don't worry . You can use tool called [Pocket](http://www.getpocket.com) . Just sign up there and in feedly [setup](http://help.getpocket.com/customer/portal/articles/1043058-how-to-save-to-pocket-from-feedly) the pocket. From now on you can save the articles to pocket and use from web,android or iOS devices.
 
-#Read everyday
+### Read everyday
 Make a habit of reading feedly everyday. It's like morning news paper. As it's available in mobile, you can read wherever you want. I have been reading from last 6 years and it has served me very well.
 
 Happy reading :)
