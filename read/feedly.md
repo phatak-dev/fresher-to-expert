@@ -22,7 +22,7 @@ The following is the list
 
  It's a new aggregator. Here the best articles of all over Internet are posted. Read the comment section of each blog to understand more about the article. It's not the prettiest looking site, but don't be fooled by that. The site has best developer community and it's right place ask questions and get your doubts resolved.
 
-  * [Techcrunch](http://www.techcrunch.com])
+  * [Techcrunch](http://www.techcrunch.com)
 
   Want to build a company? It's right blog to read. It's has good articles about how different startups are built from scratch.
 

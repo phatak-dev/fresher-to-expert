@@ -1,3 +1,6 @@
 _book/
 build.sh
 addtopages.sh
+*.pdf
+*.epub
+*.mobi
