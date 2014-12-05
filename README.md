@@ -1,7 +1,7 @@
-Introduction
-=============
+Fresher to Expert
+=================
 
-*Fresher to Expert : A beginner's guide for software skill development* is a book written for the beginner's in the software field. You may be a fresher in an engineering college or new employee in a corporate world, this book is going to help you.
+*Fresher to Expert : A beginner's guide to software skill development* is a book written for the beginner's in the software field. You may be a fresher in an engineering college or new employee in a corporate world, this book is going to help you.
 
 ### Why Book?
 
