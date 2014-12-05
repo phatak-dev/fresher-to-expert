@@ -3,6 +3,12 @@
     "title": "Fresher to Expert",
     "description": "A beginner's guide for software skill Development",    
     "github":"phatak-dev/draft_book",
+    "plugins": ["ga"],
+    "pluginsConfig": {        
+        "ga": {
+            "token": "UA-57385557-1"
+        }
+    },
     "links": {        
         "sidebar": {
             "Author": "https://github.com/phatak-dev",
