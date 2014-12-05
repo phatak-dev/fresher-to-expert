@@ -1,7 +1,7 @@
 Fresher to Expert
 =================
 
-*Fresher to Expert : A beginner's guide to software skill development* is a book written for the beginner's in the software field. You may be a fresher in an engineering college or new employee in a corporate world, this book is going to help you.
+*Fresher to Expert : A beginner's guide to software skill development* is a book written for the beginner's in the software field. You may be a fresher in an engineering college or new employee in a corporate world, this book is going to help you to improve your software development skills.
 
 ### Why Book?
 
@@ -29,4 +29,4 @@ This book is written for the people who are passionate about software developmen
 ### Acknowledgment
 This book is a effort of collaboration. This book is developed in open source spirit. Lot's of people helped right from the idea to the completion of book.
 
-A big thanks to  [Shashidhar](https://twitter.com/shashidhares) and [Shashi Sagwan](https://github.com/Shashi-Sagwan) for their help in refining language. Thanks to Hemalatha, Rose, [Swathi V](https://github.com/SwathiMystery) for their contribution. Thanks to all my friends at [Zinnia Systems](http://zinniasystems.com/) for sharing their perspectives on the book.
+A big thanks to  [Shashidhar](https://twitter.com/shashidhares) and [Shashi Sagwan](https://github.com/Shashi-Sagwan) for their help in refining language. Thanks to Hemalatha, Rose, [Swathi V](https://github.com/SwathiMystery) for their contribution. Thanks to all my friends at [Zinnia Systems](http://zinniasystems.com/) for sharing their perspective on the book.
