@@ -1,5 +1,5 @@
 # Contribute to Open source
-In the read section, we talked about why it's so important to read other's code. In last chapter, we talked how you can contribute to open source through google summer of code . But GSC is available only for students. But what if you are not a student and want to contribute to open source in free time?
+In the read section, we discussed about why it's so important to read other's code. In last chapter, we discussed how you can contribute to open source through google summer of code . But GSC is available only for students. But what if you are not a student and want to contribute to open source in free time?
 
 This chapter we talk about how you can contribute to open source through various ways.
 
@@ -8,7 +8,7 @@ Most of the people who talk to me, ask how to choose a project to start contribu
 
 
 #Code is not only way to contribute
-There is a misconception within people that contributing to open source means just contributing code. Though contributing code may be great, but it is not the only way to contribute to open source. There are many ways you contribute besides coding!
+There is a misconception within people that contributing to open source means just contributing code. Though contributing code may be great, but it is not the only way to contribute to open source. There are many ways you can contribute besides coding!
 
 The following are few ways you can contribute to the project:
 
