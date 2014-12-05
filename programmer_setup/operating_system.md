@@ -23,7 +23,7 @@ Because it's assembled under the model of free and open-source software developm
 
 * ### Great development support
 
-    Linux supports C development out of the box. Similarly, you can develop Java,python or any other language programs very easily on the linux. So as a developer you get an excellent support from the operating system to the programming. Linux Developer Toolset contains Compilers,Debugging tools,the LAMP application stack, and Git and lot more.
+    Linux supports C development out of the box. Similarly, you can develop Java,python or any other language programs very easily on the linux. So as a developer you get an excellent support from the operating system to the programming. Linux developer toolset contains compilers,debugging tools,the LAMP application stack, and git and lot more.
 
 
 #But Linux is command line right?

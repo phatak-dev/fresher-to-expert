@@ -3,7 +3,7 @@ These days everyone owns a phone. Most of the those phones are touch screen base
 
 
 #What is a smartphone?
-Smartphone is a hand held computer which is normally operated using touchscreen interface. They are essentially limited version of desktop or laptop. They run operating system that are created from basis of computer operating system.Various Mobile operating systems are Android,iOS,Blackberry,Windows etc.
+Smartphone is a hand held computer which is normally operated using touchscreen interface. They are essentially limited version of desktop or laptop. They run operating system that are created from basis of computer operating system.Various mobile operating systems are android,iOS,blackberry,windows etc.
 
 #Which smartphone is better?
 
