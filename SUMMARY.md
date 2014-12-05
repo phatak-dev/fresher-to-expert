@@ -1,5 +1,4 @@
 # Summary
-
 * [Read - Keep up with world](read/README.md)
    * [Feedly](read/feedly.md)
    * [Books](read/books.md)

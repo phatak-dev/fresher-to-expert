@@ -30,8 +30,7 @@ Because it's assembled under the model of free and open-source software developm
 This is one of misconception about Linux. Linux,in its early age, used to come only with command line interfaces. But with newer distributions of linux like Ubuntu you get nice GUI like you find on windows.
 
 #Ubuntu - Linux distribution for beginners
-There are many distributions of linux available. You might have heard of Redhat, Fedora,Ubuntu etc. To make a switch to Linux, you can start with [Ubuntu](www.ubuntu.com). Ubuntu is very easy to use and well supported operating system. So you can start with ubuntu and as you become more comfortable with linux you can switch to other distributions.
-
+There are many distributions of linux available. You might have heard of Redhat, Fedora,Ubuntu etc. To make a switch to Linux, you can start with [Ubuntu](http://www.ubuntu.com). Ubuntu is very easy to use and well supported operating system. So you can start with ubuntu and as you become more comfortable with linux you can switch to other distributions.
 
 
 #I have windows, can I tryout linux without partitioning?
