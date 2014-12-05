@@ -29,7 +29,7 @@ Linux systems come with many important advantages over windows for power user. A
 This is one of misconception about Linux. In earlier days linux only used to come with command line interfaces. But with newer distribution of linux like Ubuntu you get nice GUI like you find on windows.
 
 #Ubuntu - Linux distribution for beginners
-There are many distributions of linux available. You may be heard of Redhat, Fedora,Ubuntu etc. If you only used windows till now and want to make a switch to Linux, I recommend you to start with [Ubuntu](www.ubuntu.com). Ubuntu is very easy to use and well supported operating system. It's also choice of operating of mine.So you can start with ubuntu and as you become more comfortable with linux you can move into other distributions.
+There are many distributions of linux available. You may be heard of Redhat, Fedora,Ubuntu etc. If you only used windows till now and want to make a switch to Linux, I recommend you to start with [Ubuntu](http://www.ubuntu.com). Ubuntu is very easy to use and well supported operating system. It's also choice of operating of mine.So you can start with ubuntu and as you become more comfortable with linux you can move into other distributions.
 
 
 
