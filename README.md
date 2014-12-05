@@ -1,7 +1,7 @@
 
 #Introduction
 
-*Fresh to Expert : A beginner's guide for software skill development* is a book written for the beginner's in the software field. You may be a fresher in an engineering college or new employee in a corporate world, this book is going to help you.
+*Fresher to Expert : A beginner's guide for software skill development* is a book written for the beginner's in the software field. You may be a fresher in an engineering college or new employee in a corporate world, this book is going to help you.
 
 ## Why Book?
 
@@ -18,7 +18,7 @@ This book is highly opinionated. Resources and advices shared here are what I th
 This book is primarily targeted towards the engineering students and software developers in India. But as many resources mentioned in book are globally available it should help any new software developer out there.
 
 At same time,
-**This book is not how to**
+**this book is not how to**
 
  * Get good marks in Engineering exams
  * Get job in MNC

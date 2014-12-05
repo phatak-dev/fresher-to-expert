@@ -33,5 +33,4 @@
    * [MNC](profession/mnc.md)
    * [Service Based Companies](profession/service_based_companies.md)
    * [Conclusion](profession/conclusion.md)
-* [Epilogue](epilogue/README.md)
 
