@@ -14,7 +14,7 @@ Most of the MNC companies will have deep pockets. Most of them will pay you well
 
 Many MNC companies employ people from different countries in a given team. This gives you the opportunity to work with different kind of people and learn from their expertise. Sometimes you may be even able to meet your hero's from other countries.
 
-* ###3 You contribute to products used by millions
+* ###You contribute to products used by millions
 
 Most of the product/services offered by an MNC is consumed by millions of users. So whenever you are working in MNC, whatever you contribute to the product it's going to effect life of millions of people. So it will be very rewarding experience when you know even the smallest of your contribution has a huge impact on others.
 

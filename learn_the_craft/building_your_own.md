@@ -4,7 +4,7 @@ Last chapter talks about building complete computer system. Though its a powerfu
 
 So in this section I am going to discuss about the softwares you can use for your daily usage. Here you are going to create few of the softwares that you use everyday like Operating system, compiler etc to get a feel how these things are built from scratch.
 
-### Why build when it already exist
+### Why build when it already exists
 
 Most of the students want to build new shiny things. It's easy to understand the urge to create something that no one has ever created. Before creating a new software it is equally important to understand things that we use every day. Building your own version of tools makes you understand these tools intimately .
 

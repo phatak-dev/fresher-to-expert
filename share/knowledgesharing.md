@@ -1,5 +1,5 @@
 # Knowledge sharing
-Today people across the globe collaborate through internet. You can share your idea or queries in different forums and people from different parts of the world. In this chapter we are going to discuss about few of the resources you can use for sharing the knowledge with others.
+Today people across the globe collaborate through internet. You can share your idea or queries in different forums and with people from different parts of the world. In this chapter we are going to discuss about few of the resources you can use for sharing the knowledge with others.
 
 ### Mailing lists
 Every open source project normally comes with a mailing list. Mailing list is just a common email address that you can send mails or receive mails from the group of people.
@@ -68,7 +68,7 @@ The following are few of the people you can start with.
 * [Linus torvalds](https://plus.google.com/u/0/+LinusTorvalds) - creator of Linux
 * [John Resig](https://twitter.com/jeresig) - creator of Jquery
 
-So now you know different avenues to ask questions and answers other questions. Be on top of those resources. They will be extremely helpful to share ideas and queries.
+So now you know different avenues to ask questions and answer others questions. Be on top of those resources. They will be extremely helpful to share ideas and queries.
 
 
 
