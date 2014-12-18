@@ -1,9 +1,9 @@
 # Books
 Coming from the engineer background, I always hated reading textbooks. Most of the textbooks were dry and presented topics in not interesting way. But over the course my career I have found very interesting books which make you think in completely new direction.
 
-As you now are getting up to date with world technology news its very important to read books. Books distill the best practices of craft and gives very depth the understanding of the topics.
+As you now are getting up to date with world technology news its very important to read books. Books distill the best practices of craft and gives in depth understanding of the topics.
 
-The books presented are here like starting points to the interesting and fun programming books. After reading few of these, I hope you get interested in read more books which again will help you to read more.
+The books presented here are like starting points to the interesting and fun programming books. After reading few of these, I hope you get interested in read more books which again will help you to read more.
 
 ### What kind of books you should read?
 
