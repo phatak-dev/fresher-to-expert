@@ -28,7 +28,7 @@ Everyone starts learning programming with C programming language. This book not 
 
 Learning about the operating system is cool. But what about learning the operating system from it's creator? Unix programming environment is written by creators of the UNIX operating system.
 
-To have an in depth understanding of the topics covered, grab a Linux machine and practice each and every example. given. I'm sure Yyou will learn more about operating system in one month than your six month operating system course!.
+To have an in depth understanding of the topics covered, grab a Linux machine and practice each and every example. given. I'm sure you will learn more about operating system in one month than your six month operating system course!.
 
 * #### [Operating Systems Design and Implementation ](http://www.amazon.com/Operating-Systems-Design-Implementation-Edition/dp/0131429388)
 
