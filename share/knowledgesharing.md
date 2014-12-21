@@ -1,8 +1,8 @@
 # Knowledge sharing
-Today people across the globe collaborate through internet. You can share your idea or queries in different forums and people from different parts of the world. In this chapter we are going to discuss about few of the resources you can use for sharing the knowledge with others.
+Today people across the globe collaborate through Internet. You can share your idea or queries in different forums and to people from different parts of the world. In this chapter, we are going to discuss about few of the resources you can use for sharing your knowledge with others.
 
 ### Mailing lists
-Every open source project normally comes with a mailing list. Mailing list is just a common email address that you can send mails or receive mails from the group of people.
+ A mailing list is a collection of names and addresses used by an individual or an organization to send material to multiple recipients. Every open source project normally comes with a mailing list.
 
 Mailing list is a group mail. You can subscribe to this group mail. The following are few of things you can do with them
 
@@ -15,15 +15,14 @@ So if you have doubts on specific feature of a project, it's mailing list is the
 
 Mailing lists are not just limited for Q&A. They are also used for proposing new changes and voting for the releases. So if you have a great idea to improve project, you can propose your idea in mailing list. If other members of the community are keen on the feature you propose, it will be accepted.
 
-There will be different mailing lists for a given project. There will be dedicated mailing list for users, developers and committers of the project.
+There are  different mailing lists for a given project. There will be dedicated mailing list for users, developers and committers of the project.
 
 The following are few of mailing lists you can start with. Just google "project mailing list" to get mailing list of any specific project you are interested in.
 
-* [Linux kernel mailing list](https://lkml.org/)
 * [Apache Http server mailing list](http://httpd.apache.org/lists.html)
 
 ### Groups
-Mailing lists are based on email. Though email is great for communication, it poses few of below challenges
+Mailing lists are based on email. Though email is great for communication, it poses few challenges like
 
 * Too many emails from the project clutter the inbox
 * It's hard to search for previous queries
@@ -41,7 +40,7 @@ The following are few of the interesting groups to start with. Again google will
 
 ### IRC
 
-Mailing lists and groups are great for passive communication. But what if you want to discuss about project like a chat. Then IRC channels are the right place to go.
+Mailing lists and groups are great for passive communication. But what if you want to discuss about project like a chat ,then IRC channels are the right place to go.
 
 IRC stands for Internet Relay Channel. It's a group chat service where people who are interested in a given project, can virtually hangout and communicate.
 
@@ -49,14 +48,14 @@ One of the advantage of IRC over mailing lists and groups is, it doesn't need an
 
 If you want to know more about irc and how to use it refer [this](http://www.irchelp.org/irchelp/irctutorial.html) , an excellent guide.
 
-The following
+The following are few irc channels :
 * [Android IRC channel](irc://irc.freenode.net/android)
 * [Google Chrome IRC](irc://irc.freenode.net/chromium)
 
 ### Stackoverflow
 All above mentioned tools are generic communication tools which are specific to a project. But if you are looking for Q&A website which covers all different kinds of project, then stackoverflow [http://www.stackoverflow.com] is your friend.
 
-You may already know stackoverflow. Whenever you search for specific programming question on google you may have ended up in stackoverflow. But what you may not know is that each project has dedicated stack overflow section where you can get answer to your question faster than Google.
+Stack Overflow is a question and answer site for professional and enthusiast programmers. Whenever you search for a specific programming question on google you may have ended up in stackoverflow. But what you may not know is that each project has dedicated stack overflow section where you can get answer to your question faster than Google.
 
 In stackoverflow, you can ask a question or answer for a question also. So from now start searching in stackoverflow.
 
@@ -68,7 +67,7 @@ The following are few of the people you can start with.
 * [Linus torvalds](https://plus.google.com/u/0/+LinusTorvalds) - creator of Linux
 * [John Resig](https://twitter.com/jeresig) - creator of Jquery
 
-So now you know different avenues to ask questions and answers other questions. Be on top of those resources. They will be extremely helpful to share ideas and queries.
+So now you know different avenues to ask questions and answer others questions. Be on top of those resources. They will be extremely helpful to share ideas and queries.
 
 
 
