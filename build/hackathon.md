@@ -15,7 +15,7 @@ As you have limited timeline, hackathons are not meant for full fledged product/
 The time in hackathon is very valuable, as you will be completely focused on the thing that you have to build. You will not be distracted by anything outside of the one you are building. It's great to have this kind of focus because often lot of nice products are the outcome out of such hackathons.
 
 ### Hackathons teach team work
-Normally all hackathons encourage people to work in teams. One obvious reason is to save time. In adiition, being in team forces you to be a team player.Each team member has a responsibility to contribute equally. If you don't have a team don't worry many hackathons even allow you to form team on spot.
+Normally all hackathons encourage people to work in teams. One obvious reason is to save time. In addition, being in team forces you to be a team player.Each team member has a responsibility to contribute equally. If you don't have a team don't worry many hackathons even allow you to form team on spot.
 
 ### Hackathons brings you recognition
 At the end of hackathons, there is usually a series of demonstrations in which each group presents their results.It may not be the greatest thing in the world, but even if it's little good people will appreciate. It builds a good recognition around developer community which will be invaluable for your career.

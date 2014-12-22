@@ -1,4 +1,5 @@
 # Knowledge sharing
+
 Today people across the globe collaborate through Internet. You can share your idea or queries in different forums and to people from different parts of the world. In this chapter, we are going to discuss about few of the resources you can use for sharing your knowledge with others.
 
 ### Mailing lists

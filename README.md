@@ -18,11 +18,11 @@ This book is highly opinionated. Resources and advices shared here are what I th
 This book is primarily targeted towards the engineering students and software developers in India. But as many resources mentioned in book are globally available it should help any new software developer out there.
 
 At same time,
-**this book is not how to**
+**this book is not about how to**
 
  * Get good marks in Engineering exams
  * Get job in MNC
- * 24 hour guide to become successful
+ * Become successful in 24 hours
 
 This book is written for the people who are passionate about software development and want to broaden their horizon.
 

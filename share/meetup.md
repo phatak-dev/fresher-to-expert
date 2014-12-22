@@ -1,5 +1,6 @@
 # Meetup
 
+
 Being able to do everything with Internet is great,that allows you to work from anywhere you want. But sometimes that's not enough. Sometimes it's better to meet real people to understand things in deep manner. So that's where meetups come along.
 
 Meetup is a non-formal event where like minded people meet and discuss on a specific theme. Meetups have become quite famous these days as they allow people to share their experience on specific tools or technology with their fellow developers.

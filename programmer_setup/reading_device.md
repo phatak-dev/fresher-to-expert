@@ -16,7 +16,7 @@ So having a dedicated device for reading is always great. You may not have to in
 The following are few of the devices which gives you a superior reading experience when compared to phone or computer.
 
 ### Amazon Kindle
-Amazon is a biggest retailer of e-books in the world. Amazon kindle is a dedicated ebook reader which allows you to store and read thousands of books or magazines and it's light and portable. The basic version of Kindle comes with E-ink display which has battery life that lasts over 30 days.Other advanatges are that it is easy on eyes and allows you to read in any position when you are reading for longer period of time.
+Amazon is a biggest retailer of e-books in the world. Amazon kindle is a dedicated ebook reader which allows you to store and read thousands of books or magazines and it's light and portable. The basic version of Kindle comes with E-ink display which has battery life that lasts over 30 days.Other advantages are that it is easy on eyes and allows you to read in any position when you are reading for longer period of time.
 
 Every thing comes with its own pros and cons!.The con of the kindle is that, its only for  dedicated reading. You cannot do much with kindle other than reading. It's ok for an avid reader. But for majority of developers, other than just reading they also want to access the web, apps like feedly which makes reading complete.
 

@@ -22,11 +22,11 @@ Though blogging seems to be a lot of work which involves thinking, writing and p
 
 * Online diary
 
-    Blog is the best way to share your work with outside world. If you put your understanding of a given framework or a language out there in web, people find you to be authoritative on that subject. Not only it gives you more legitimacy, it also helps in job interviews. Blog is one of the way for people to know your passion and skill set on a given subject.
+ Blog is the best way to share your work with outside world. If you put your understanding of a given framework or a language out there in web, people find you to be authoritative on that subject. Not only it gives you more legitimacy, it also helps in job interviews. Blog is one of the way for people to know your passion and skill set on a given subject.
 
 * Improved communication
 
-  As mentioned above writing is basic communication in companies. You have to communicate effectively in order to win over your fellow mates. So writing blog helps you immensely improve your communication.
+ As mentioned above writing is basic communication in companies. You have to communicate effectively in order to win over your fellow mates. So writing blog helps you immensely improve your communication.
 
 * Share your point of view
 
@@ -61,6 +61,7 @@ There are many more other blogging sites, but above are the top three. You can t
 
 
 ### Self hosting
+
 
 You can host your own blog using Github and Jekyll. For more info read through jekyll [documentation](http://jekyllrb.com/)
 
