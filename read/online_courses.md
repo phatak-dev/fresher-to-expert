@@ -1,19 +1,20 @@
 MOOC - Massive open online course
 ====================================
 
-Want to learn from the best lectures in the world? Then you should start using online courses.
+Want to learn new skills from the best lectures in the world? Then you should start using online courses. Online courses are great for self-motivated individuals who want to learn new skills and advance their careers.
 
-From last few years, there is a new trend in education. In earlier times, people were travelling great distance in order to get quality education. But with Internet that's no more required. With Internet you can learn anything sitting in home. Most of the time these courses will be free or will be charging very less money. These kind of courses are called as [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course)- Massive open online course.
 
-Whenever people hear about the online courses, there will be some questions arise. Particularly around the quality of the teaching and content. The following are few of FAQ asked by students
+From last few years, there is a new trend in education. In earlier times, people used to travel great distance in order to get quality education. But with widespread usage of Internet ,that's no longer required ,as you can learn anything sitting in home. Most of the time these courses are offered for free or will be charging very minimal. These kind of courses are called as [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course)- Massive open online course.
 
-* ####Is quality of MOOC courses are good?
+Whenever people hear about online courses, there are some obvious queries ,particularly around the quality and the content of the teaching. The following are few of the FAQs 
 
-    The courses provided by the MOOC companies like [Coursera](http://www.coursera.org) and [Udacity](https://www.udacity.com/) are top notch.They are usually taught by the best in field. Most of the instructors hold Phd in the field and respected lecturers in the top colleges.
+* ####Is quality of MOOC courses good?
+
+    The courses provided by the MOOC companies like [Coursera](http://www.coursera.org) and [Udacity](https://www.udacity.com/) are top notch.They are usually taught by the best in field. Most of the instructors hold PhD in the field or they are working professionals with years of practical experience in the course subject or they have teaching experience in top colleges.
 
 * ####Are they going to charge a lot?
 
-    One of the advantages of online courses is they don't cost too much for the universities or companies to offer them to large amount of students. There are many great free courses in Coursera and very less costly courses in Udacity. So you should get your money worth.
+    One major advantage of online courses are that they don't cost too much for the universities or companies to offer them to large amount of students. There are many great free courses in Coursera and very less costly courses in Udacity. So you should get your money worth.
 
 * #### Do this courses offer hands on?
 
@@ -21,7 +22,7 @@ Whenever people hear about the online courses, there will be some questions aris
 
 * ####Do I get a Certificate?
 
-    Yes. If you follow the course and complete the exercises you will get a certificate with marks by the time of completion.
+    Yes, if you follow the course and complete all the given exercises, you will get a certificate with marks at the time of course completion.
 
 * ####Do instructors help students like in real classes?
 
@@ -29,9 +30,9 @@ Whenever people hear about the online courses, there will be some questions aris
 
 * ####Can I learn with my own pace?
 
-    Coursera keeps the videos and exercises even after the course is completed. So if you don't care about the certificates you can watch videos and follow the course in your own pace.
+    Hop online at any time and check out the due assignment/chapters. With the flexibility of online classes, you can prioritize your time and work on your own pace.Coursera keeps the videos and exercises even after the course is completed.
 
-* ####Are these courses are limited to computers?
+* ####Are these courses are limited to computers alone?
 
     No. There are variety of courses which cover business,fashion,psychology etc.
 
@@ -41,7 +42,7 @@ Whenever people hear about the online courses, there will be some questions aris
     Most well known sites are [coursera](http://www.coursera.org), [udacity](https://www.udacity.com/) and [khan academy](https://www.khanacademy.org/)
 
 
-MOOC are the new way of learning. These courses offer high quality content with very cost effective way.
+MOOCs are the new way of learning. These courses offer high quality educational content with lower costs or sometimes costing nothing!.
 
 ### Courses to start with
 

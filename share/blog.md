@@ -1,26 +1,28 @@
 # Blog
 
-Writing blog is like keeping a dairy. Blog allows you to keep track of things that you do and share it with world. A good blog not only helps author, it also helps readers to improve their knowledge. Writing blogs seems to be easy in first sight, but when you do its not that easy.
+A blog is an online personal journal or diary. It is a place to express yourself to the world. A place to share your thoughts and your passions. 
+
+A good blog not only helps the author, but it also helps it's readers to improve their knowledge. Writing blogs seems to be easy in first sight, but when you do its not that easy.
 
 ### Writing is hard
-Writing is a different art compared to talking. Talking comes natural to humans but not writing. Writing is something we have cultivated as a culture. So when I ask some developer to talk about what they are doing, they can happily  talk for hours. But if I ask developer to write down what they did, they will have hard time doing it. This is one of the main reason for not having documenation for most of software tools.
+Writing is a different art when compared to talking. Talking comes natural to humans, but not writing. Writing is something we have cultivated as a culture. So when I ask some developer to talk about what they are doing, they can happily  talk for hours. But if I ask them to write down what they have done, then they  have hard time doing it. This is one of the main reasons for lack of documenation for most of the software tools.
 
-Writing needs a focused manner of expressing your understanding to fellow person. A good blog always wins its audience by its simplicity and precise explanation to the point. So writing not only keeps track of your work, but also teaches you how to express your understanding in a better way.
+Writing needs a focused manner of expressing your understanding to a fellow person. A good blog always wins its audience by its simplicity and precise explanation to the point. So blogging not only keeps track of your work, but also teaches you how to express your understanding to the world  in a better way.
 
 ### Writing as communication tool at workplace
-In any job, writing is a primary communication skill. You have to write documents to express your ideas to your clients. You have to write mails to express your ideas to higher management. So if anything helps you to improve writing skills better you should start doing it. Blogging is one of the best way to do that.
+In any profession, at its core, writing is communication, where you have to write documents to express your ideas to your clients and  write mails to express your ideas to higher management. Blogging will not force you to become a better writer, it’ll just happen as you do it. 
 
 
 ### What is a blog?
-Blog is collection of articles shared by a person or collection of people on web. You have already read many blogs like Verge,Techcrunch in the read section. As you can read others blog, you can write your own too.
+Blog is collection of articles shared by a person or collection of people on web. You might have read many blogs like Verge,Techcrunch recommended in the read section. When you can read others blog, you can write your own too!.
 
 ### Why Blog?
 
-Even though blogging seems to be a lot work which involves thinking, writing and publishing, following reasons should get you start blogging.
+Though blogging seems to be a lot of work which involves thinking, writing and publishing, following are the reasons you need to blog:
 
-* Online dairy
+* Online diary
 
- Blog is the best way to share your work with outside world. If you put your understanding of a given framework or a language out there in web, people find you to be authoritative on that subject. Not only it gives you more legitimacy, it also helps in job interviews. Blog is one the way people can understand your passion and skill set on a given subject.
+ Blog is the best way to share your work with outside world. If you put your understanding of a given framework or a language out there in web, people find you to be authoritative on that subject. Not only it gives you more legitimacy, it also helps in job interviews. Blog is one of the way for people to know your passion and skill set on a given subject.
 
 * Improved communication
 
@@ -32,7 +34,7 @@ Even though blogging seems to be a lot work which involves thinking, writing and
 
 * Fun
 
- Finally writing blog and sharing is a lot of fun. It may be challenging in the beginning, but as more people read your blog and appreciate your hardwork it will be a fulfilling exercise.
+Finally writing blog and sharing is a lot of fun. It may be challenging in the beginning, but as more people read your blog and appreciate your hardwork ,it will be a fulfilling exercise.
 
 
 ### Different ways to create blog
@@ -49,7 +51,7 @@ Wordpress is one of the most famous blogging software out there. In wordpress.co
 
 * ####[Tumblr](https://www.tumblr.com/)
 
-Tumblr is another blogging platform where you can create your blogs. In Tumblr you can follow other blogs too. Tumblr is well known for its great UI, ease of use. Tumblr is also popular for creating photo blogs.
+Tumblr is another blogging platform where you can create your blogs. In Tumblr, you can follow other blogs too. Tumblr is well known for its great UI, ease of use. Tumblr is also popular for creating photo blogs.
 
 * ####[Blogger](http://www.blogger.com)
 
@@ -60,7 +62,8 @@ There are many more other blogging sites, but above are the top three. You can t
 
 ### Self hosting
 
-You can host your blog yourself using Github and Jekyll. For more info read through jekyll [documentation](http://jekyllrb.com/)
+
+You can host your own blog using Github and Jekyll. For more info read through jekyll [documentation](http://jekyllrb.com/)
 
 
 Having a blog is the best way to communicate with the world. What are you waiting for? Go create your blog today.

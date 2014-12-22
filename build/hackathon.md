@@ -1,9 +1,9 @@
 # Hackathon
-hackathons are the marathons to hack. Hack stands for building something useful or cool over given short period of time. hackathons are great fun as they challenge you to have continuous focus over long period of time. There will be added fun being up for whole night and hacking on things you like.
+Hackathons are the marathons to hack. Hack stands for building something useful or cool over given short period of time. hackathons are great fun as they challenge you to have continuous focus over long period of time. There will be added fun being up for whole night and hacking on things you like.
 
 
 ### What is a Hackathon?
-hackathon is an event where many developers get together to build something interesting in a short period of time like 24 hours. These event goes on for 24 hours without any break , many times stretching overnight. In this event team of people will be expected to build something around a given theme/topic. Most of the these events are free to attend and some even have perks like prizes or hiring for best hacks.
+Hackathon is an event where many developers get together to build something interesting in a short period of time like 24 hours. These event goes on for 24 hours without any break , many times stretching overnight. In this event team of people will be expected to build something around a given theme/topic. Most of the these events are free to attend and some even have perks like prizes or hiring for best hacks.
 
 
 Benefits of hackathon
